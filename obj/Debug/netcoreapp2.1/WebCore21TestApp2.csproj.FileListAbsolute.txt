@@ -1,0 +1,12 @@
+D:\Temp\LabsCore2\WebCore21TestApp2\WebCore21TestApp2\bin\Debug\netcoreapp2.1\WebCore21TestApp2.deps.json
+D:\Temp\LabsCore2\WebCore21TestApp2\WebCore21TestApp2\bin\Debug\netcoreapp2.1\WebCore21TestApp2.runtimeconfig.json
+D:\Temp\LabsCore2\WebCore21TestApp2\WebCore21TestApp2\bin\Debug\netcoreapp2.1\WebCore21TestApp2.runtimeconfig.dev.json
+D:\Temp\LabsCore2\WebCore21TestApp2\WebCore21TestApp2\bin\Debug\netcoreapp2.1\WebCore21TestApp2.dll
+D:\Temp\LabsCore2\WebCore21TestApp2\WebCore21TestApp2\bin\Debug\netcoreapp2.1\WebCore21TestApp2.pdb
+D:\Temp\LabsCore2\WebCore21TestApp2\WebCore21TestApp2\obj\Debug\netcoreapp2.1\WebCore21TestApp2.csproj.CoreCompileInputs.cache
+D:\Temp\LabsCore2\WebCore21TestApp2\WebCore21TestApp2\obj\Debug\netcoreapp2.1\WebCore21TestApp2.AssemblyInfoInputs.cache
+D:\Temp\LabsCore2\WebCore21TestApp2\WebCore21TestApp2\obj\Debug\netcoreapp2.1\WebCore21TestApp2.AssemblyInfo.cs
+D:\Temp\LabsCore2\WebCore21TestApp2\WebCore21TestApp2\obj\Debug\netcoreapp2.1\WebCore21TestApp2.dll
+D:\Temp\LabsCore2\WebCore21TestApp2\WebCore21TestApp2\obj\Debug\netcoreapp2.1\WebCore21TestApp2.pdb
+D:\Temp\LabsCore2\WebCore21TestApp2\WebCore21TestApp2\obj\Debug\netcoreapp2.1\WebCore21TestApp2.RazorCoreGenerate.cache
+D:\Temp\LabsCore2\WebCore21TestApp2\WebCore21TestApp2\obj\Debug\netcoreapp2.1\WebCore21TestApp2.csprojAssemblyReference.cache
